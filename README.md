@@ -26,3 +26,7 @@ Through this task, I gained hands-on experience in writing and debugging Verilog
 
 In summary, Task 1 was focused on the ALU design using Verilog and simulation. I successfully implemented the required operations, verified them through simulation, and ensured correct functionality. This task strengthened my understanding of digital system design and helped build a foundation in hardware description languages. The experience also highlighted the importance of structured coding, modular design, and thorough testing in digital electronics. I now feel more confident in my ability to design and test digital circuits using Verilog.
 
+#Simulation Output
+
+![Image](https://github.com/user-attachments/assets/99a78493-97e6-40ea-8a8e-07ca10e9a697)
+
